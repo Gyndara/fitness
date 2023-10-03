@@ -16,7 +16,7 @@ class HomePage extends StatelessWidget {
       title: Text(
         'FITNESS',
         style: TextStyle(
-          color: Colors.black,
+          color: Colors.blue,
           fontSize: 18,
           fontWeight: FontWeight.bold,
         ),
