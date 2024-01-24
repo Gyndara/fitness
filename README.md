@@ -1,6 +1,6 @@
 # fitness
 
-A new Flutter project.
+A new Flutter project. An application that sales fitness product
 
 ## Getting Started
 
